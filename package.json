@@ -1,0 +1,19 @@
+{
+  "name": "frontend-102",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak-sehgal/frontend-102.git"
+  },
+  "author": "Sarthak Sehgal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthak-sehgal/frontend-102/issues"
+  },
+  "homepage": "https://github.com/sarthak-sehgal/frontend-102#readme"
+}
